@@ -1,0 +1,5 @@
+env
+__pycache__
+music.ytdl
+*.mp3
+bin/codecs/*
