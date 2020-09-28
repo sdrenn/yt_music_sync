@@ -3,3 +3,4 @@ __pycache__
 music.ytdl
 *.mp3
 bin/codecs/*
+client_secret.json
